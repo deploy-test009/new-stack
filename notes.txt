@@ -1,0 +1,2 @@
+to run docker file: 
+docker run -p 4000:4000 --env-file backend/.env yuva-backend
